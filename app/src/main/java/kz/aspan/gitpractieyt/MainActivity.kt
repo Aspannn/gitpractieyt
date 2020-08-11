@@ -15,6 +15,7 @@ class MainActivity : AppCompatActivity() {
         println("This line will be merged")
         println("This line will be merged")
         println("commit test Aspan")
+        println("commit test Aspan 1")
         println("commit test Aspan 222")
     }
 }
