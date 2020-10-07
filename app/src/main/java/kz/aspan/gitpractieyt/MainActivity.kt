@@ -17,5 +17,6 @@ class MainActivity : AppCompatActivity() {
         println("commit test Aspan")
         println("commit test Aspan 1")
         println("commit test Aspan 222")
+        println("commit test Aspan 2224")
     }
 }
